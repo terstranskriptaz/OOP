@@ -3,7 +3,7 @@
 """
 Created on Mon Apr  3 03:31:30 2023
 
-@author: ozgekilic
+@author: ozge
 """
 '''
 

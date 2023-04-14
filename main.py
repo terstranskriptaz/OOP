@@ -3,7 +3,7 @@
 """
 Created on Tue Apr  4 01:42:17 2023
 
-@author: ozgekilic
+@author: ok
 """
 #objeler olusturacagiz classlar icin ve bu objelerle definitionlari cagiracagiz 
 from rent import CarRent, BikeRent, Customer
